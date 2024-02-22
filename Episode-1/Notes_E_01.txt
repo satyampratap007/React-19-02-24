@@ -1,0 +1,14 @@
+=> The costliest operation in browser is changing the DOM tree and that happens when we click on browser to open or to hide something.
+
+=> ReactElement (Object) => HTML(Browser Understands)
+
+
+=> We can write React code without JSX also
+
+=> Render do replace (not append)all the elements present already inside the tag
+
+=> React is called library because it can be applied to small portion of a page as where we will define the root
+=> So this create another usecase i.e. 
+React can be used for a small portion of the page it doesn't require full fledge framework like environment
+
+
